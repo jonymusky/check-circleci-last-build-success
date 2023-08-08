@@ -47,7 +47,7 @@ The script  will  fetch  the  last  successful  workflow  run  for  each  reposi
 
   
 
-Example Output
+### Example Output
 
 The script  will  display  output  in  the  console  with  the  following  information  for  each  repository:
 
