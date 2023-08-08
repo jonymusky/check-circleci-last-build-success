@@ -1,5 +1,3 @@
-# check-circleci-last-build-success
-
 # CircleCI Last Successful Workflow Checker
 
   
